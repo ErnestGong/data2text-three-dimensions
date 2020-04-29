@@ -2,6 +2,7 @@
 __pycache__/
 .DS_Store
 .idea
+!ref/*
 !*.py
 !.gitignore
 !*.md
