@@ -15,7 +15,7 @@ Note that requirements.txt contains necessary version requirements of certain de
 
 ## data and model
 
-Before executing commands in the following sections, the data and/or trained model need to be downloaded and extracted. They are available as a single tar.gz file at link https://pan.baidu.com/s/11mXCQnWFW9TLM2O3bfeHnQ (retrieval code: cqxx ). Please move the extracted folder rotowire and paper_model into this repo's folder.
+Before executing commands in the following sections, the data and/or trained model need to be downloaded and extracted. They are available as a single tar.gz file at link https://www.dropbox.com/s/hnij20b0rm5dn9b/data_and_model.tar.gz?dl=0 (suited for global user) or https://pan.baidu.com/s/11mXCQnWFW9TLM2O3bfeHnQ (retrieval code: cqxx ). Please move the extracted folder rotowire and paper_model into this repo's folder.
 
 ## preprocessing
 
